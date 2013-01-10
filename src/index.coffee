@@ -1,4 +1,4 @@
-coffeescript = require 'coffee-script'
+coffeescript = require 'coffee-script-redux'
 
 module.exports = class CoffeeScriptCompiler
   brunchPlugin: yes

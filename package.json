@@ -1,12 +1,11 @@
 {
-  "name": "coffee-script-brunch",
-  "version": "1.4.1",
-  "description": "Adds CoffeeScript support to brunch.",
-  "author": "Paul Miller (http://paulmillr.com/)",
-  "homepage": "https://github.com/brunch/coffee-script-brunch",
+  "name": "coffee-script-redux-brunch",
+  "version": "0.1.1",
+  "description": "Adds CoffeeScriptRedux support to brunch.",
+  "author": "Dave Tonge",
   "repository": {
     "type": "git",
-    "url": "git@github.com:brunch/coffee-script-brunch.git"
+    "url": "git@github.com:davidgtonge/coffee-script-brunch.git"
   },
   "main": "./lib/index",
   "scripts": {
@@ -18,7 +17,7 @@
     "node": "~0.6.10 || 0.8 || 0.9"
   },
   "dependencies": {
-    "coffee-script": "1.x"
+    "coffee-script-redux": "*"
   },
   "devDependencies": {
     "mocha": "1.2.2",
