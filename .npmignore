@@ -2,8 +2,10 @@
 .svn/
 .hg/
 .git/
+idea/
 CVS/
 *~
 *.bak
+*.iml
 .DS_Store
 npm-debug.log
