@@ -5,7 +5,7 @@
   "author": "Dave Tonge",
   "repository": {
     "type": "git",
-    "url": "git@github.com:davidgtonge/coffee-script-brunch.git"
+    "url": "git@github.com:davidgtonge/coffee-script-redux-brunch.git"
   },
   "main": "./lib/index",
   "scripts": {
